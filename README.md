@@ -24,3 +24,9 @@ Dit project betreft de ontwikkeling van een 2D ruimteschietspel in Python met be
 - Toevoeging van verschillende typen kogels en vijandige schepen.
 
 Dankzij het gebruik van deze technieken kon het ruimteschietspel worden ontwikkeld met een solide basis en vloeiende gameplay.
+
+## Screenshots
+![KB24 (1)](https://github.com/tuwinannings/KB-24-Gaming/assets/29577623/4d69c33b-4bf6-4872-ab05-418054434340)
+![KB24 (3)](https://github.com/tuwinannings/KB-24-Gaming/assets/29577623/2c132d78-acdc-40b7-9bda-cfb921c31fc2)
+![KB24 (2)](https://github.com/tuwinannings/KB-24-Gaming/assets/29577623/4cdf1b0a-59e0-4fc1-8bb7-b43dc203c875)
+
